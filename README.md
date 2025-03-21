@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @josetvrs
-- 👀 I’m interested in App Development, Augmented Reality and AI
-- 🌱 I’m currently learning Unity AR development, as well as Python for Machile Learning and C++ programming language
-- 💞️ I’m looking to collaborate on Unity App development
-- 📫 How to reach me jose.tvrs10@gmail.com
+- 👀 I’m interested in App/Web Development, Augmented Reality, AI and Data Engineering
+- 🌱 I’m currently working as a Python Developer focusing on Data Engineering and Backend
+- 📫 You can reach me at jose.tvrs10@gmail.com
